@@ -1,5 +1,5 @@
 ### Hi everyone ... 👋
-I am a Digital Creator, Editor, Designer and create features that best suit your job or hobby. 😄
+I am a Digital Creator, Editor, Designer and create features that best suit my work or hobby. 😄
 
 - 🔭 Currently I am working on design, web tools, tools for editing, documenting projects in blogs..
 - - 🌱 I am learning Frontend and Backend development..
